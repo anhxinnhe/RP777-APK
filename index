@@ -1,0 +1,29 @@
+# RP777 APK - Game Mobile Hiburan Seru
+
+Selamat datang di repositori **RP777 APK**! Repositori ini berisi dokumentasi, panduan, dan informasi terkait RP777 APK, sebuah game mobile yang dirancang untuk memberikan hiburan yang menarik dan interaktif bagi pengguna.
+
+## 📱 Tentang RP777 APK
+
+RP777 APK adalah aplikasi game mobile yang menawarkan beragam mini-games dan fitur kompetitif, cocok untuk semua kalangan. Dirancang dengan antarmuka yang intuitif dan grafis yang memukau, RP777 memberikan pengalaman bermain yang memuaskan di perangkat mobile.
+
+### Fitur Utama:
+- **Mini-Games yang Beragam**: Tersedia berbagai jenis permainan, mulai dari puzzle, arcade, hingga olahraga.
+- **Multipemain Real-Time**: Tantang teman atau pemain dari seluruh dunia dalam mode kompetitif.
+- **Avatar yang Dapat Dikustomisasi**: Buat avatar unik dengan berbagai pilihan penampilan dan aksesoris.
+- **Bonus Harian**: Login setiap hari untuk mendapatkan berbagai bonus menarik.
+- **Kompatibilitas Mobile**: Optimalisasi untuk berbagai perangkat mobile modern.
+
+## 📂 Struktur Direktori
+
+Berikut adalah struktur direktori di repositori ini:
+
+```plaintext
+RP777-APK/
+├── src/               # Kode sumber untuk game RP777 APK
+├── assets/            # Asset gambar, suara, dan media lainnya
+├── docs/              # Dokumentasi lengkap dan panduan
+│   ├── installation.md # Panduan instalasi aplikasi
+│   ├── gameplay.md     # Penjelasan detail tentang gameplay
+│   └── features.md     # Daftar fitur dan detailnya
+├── tests/             # Unit test dan pengujian aplikasi
+└── README.md          # Berkas ini - panduan umum untuk repositori
